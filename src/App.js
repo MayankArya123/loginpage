@@ -7,7 +7,7 @@ function App() {
       <div className="first_half_container">
       <div className="form_container">
          <div className="logo_image">
-             <span>spanjjjjjjjhhjjjj</span>
+             <span>icon</span>
          </div>
       <p className="paragraph"> Type in your password</p>
           <div className="form_group">
