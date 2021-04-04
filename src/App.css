@@ -6,13 +6,23 @@
    /* grid-template-columns: 3fr 9fr; */
 }
 
+/* .App div {
+  border-right: 2px red !important  ;
+} */
+
 .first_half_container{
-  /* background-color: blueviolet !important; */
+  background-color: grey !important;
+  opacity: 0.9;
   display: flex;
   justify-content: center;
   align-items: center;
   width: 28%;
   height: 100vh; 
+  /* border-right: 9px solid grey !important  ; */
+  /* border-bottom: 2px red !important  ; */
+  /* z-index: 2; */
+
+  
   
 }
 .second_half_container{
@@ -66,6 +76,7 @@
   padding-left: 10px;
   background-color: white;
   width: 170px;
+  border-color:  black;
   /* color: red; */
    /* justify-content: center; 
   align-items: center;  */
@@ -87,7 +98,7 @@
 
    /* justify-content: center; 
   align-items: center;  */
-  /* background-color: brown; */
+  border-color: blue;
 } 
 
 /* .other_container {
